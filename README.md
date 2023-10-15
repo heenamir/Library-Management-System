@@ -8,7 +8,7 @@ Library Management System written in Python, PyQt5 and MySQL
 
 ### PyQt5
 - PyQt5 is a module that can be used to create graphical user interfaces (GUI).
-- PyQt5 is one of the best frameworks for developing desktop application.
+- PyQt5 is one of the frameworks for developing desktop application.
 
 ### MySQL
 - MySQL is one of the most common open source databases for storing Python web applications' data. 
